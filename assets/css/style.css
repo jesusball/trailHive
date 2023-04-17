@@ -736,8 +736,6 @@ section {
 }
 
 @media (max-width: 1150px) {
-    #features .container .box-container {}
-
     #features .container .box-container .box {
         width: 250px;
         max-width: 250px;
